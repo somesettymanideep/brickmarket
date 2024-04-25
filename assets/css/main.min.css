@@ -4332,7 +4332,7 @@ i {
 
 .work-steps .work-steps__single-active span {
     background-color: var(--primary-color);
-    color: var(--white)
+    color: black;
 }
 
 .work-steps .work-steps__single-active span::after {
