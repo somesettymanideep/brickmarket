@@ -1814,6 +1814,17 @@ i {
     height: 100%;
     border-radius: 100px
 }
+@media only screen and (max-width: 576px) {
+    .banner-two .thumb video {
+        max-width: 100%;
+        max-height: 200px;
+        height: 100%;
+        border-radius: 100px
+    }
+    .banner-two {
+        padding: 100px 0px 100px!important;
+    }
+}
 
 .banner-two .banner-two__content h1 {
     font-weight: 900;
