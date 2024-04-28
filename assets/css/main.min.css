@@ -1824,8 +1824,18 @@ i {
     .banner-two {
         padding: 100px 0px 100px!important;
     }
+   
 }
-
+.video-modal .video-frame {
+    position: absolute;
+    top: 80%!important;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+.video-modal .modal-bg {
+    min-height: 100%!important;
+}
 .banner-two .banner-two__content h1 {
     font-weight: 900;
     text-transform: uppercase;
