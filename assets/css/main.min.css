@@ -8350,3 +8350,7 @@ i {
     padding: 40px 0px 40px 0px;
 }
 /*# sourceMappingURL=main.min.css.map */
+
+.team-m .team-m__single .thumb .thumb__content {
+    padding:20px!important;
+}
